@@ -7,8 +7,8 @@ const Introduction = () => {
     <div className="pt-8 flex items-stretch justify-between bg-white drop-shadow-xl">
       <Image src={circuitImage} alt="Left Circuit Image" className="w-1/4" />
 
-      <div className="w-1/2 flex flex-col items-center justify-center gap-y-4">
-        <div className="flex flex-col items-center justify-center">
+      <div className="w-1/2 flex flex-col items-center justify-center gap-y-5">
+        <div className="flex flex-col items-center justify-center gap-y-4">
           <p className="whitespace-nowrap text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-black">
             AI @ UCR
           </p>
